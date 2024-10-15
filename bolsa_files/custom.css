@@ -1,0 +1,183 @@
+.vtex-store-drawer-0-x-drawerContent--drawer-menu .flex-grow-1 {
+    flex-grow: 1;
+    float: none;
+    width: unset;
+    display: unset;
+    text-align: unset;
+    position: unset;
+    margin-bottom: unset;
+}
+
+[name="#/properties/preferences"] option:first-child{
+    display: none;
+}
+
+[name="#/properties/preferences"]{
+    margin-top: 5px;   
+}
+
+/* mobile breadcrumb */
+@media (max-width: 48rem) {
+    .vtex-flex-layout-0-x-flexRowContent--row2-content-result-mobile .vtex-breadcrumb-1-x-arrow:nth-last-child(2),
+    .vtex-flex-layout-0-x-flexRowContent--row2-content-result-mobile .vtex-breadcrumb-1-x-arrow:nth-last-child(1) {
+        display: inline-block !important;
+    }
+}
+
+.nikear-store-components-0-x-componentGeneratorContainer .nikear-store-components-0-x-videoContainer {
+	padding-bottom: 0 !important;
+  	height: auto !important
+}
+
+.nikear-store-components-0-x-tabSliderHeader .nikear-store-components-0-x-toggleOption {
+	height: 36px;
+}
+
+.vtex-rich-text-0-x-paragraph--slider-text-message {
+	margin: 0;
+}
+
+@media (min-width: 80rem) {
+    .nikear-minicart-0-x-minicartTitle {
+        padding: 1.5px 0 1rem;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+}
+
+@media (max-width: 48rem) {
+    .vtex-flex-layout-0-x-flexRow--footer-social-networks {
+		min-height: 130px;
+	}
+}
+
+.nikear-search-result-3-x-filterBreadcrumbsText--grid-filter.c-muted-2 {
+	text-decoration: underline;
+}
+
+.nikear-search-result-4-x-filter__container--category-2 .nikear-search-result-4-x-filterItem--ropa,
+.nikear-search-result-4-x-filter__container--category-2 .nikear-search-result-4-x-filterItem--calzado,
+.nikear-search-result-4-x-filter__container--category-2 .nikear-search-result-4-x-filterItem--accesorios,
+.nikear-search-result-4-x-accordionFilterOpen--grid-filter--categoria .nikear-search-result-4-x-filterAccordionItemBox--ropa,
+.nikear-search-result-4-x-accordionFilterOpen--grid-filter--categoria .nikear-search-result-4-x-filterAccordionItemBox--calzado,
+.nikear-search-result-4-x-accordionFilterOpen--grid-filter--categoria .nikear-search-result-4-x-filterAccordionItemBox--accesorios,
+.nikear-search-result-4-x-filter__container--category-4,
+.nikear-search-result-4-x-accordionFilterContainer--category-4 {
+	display: none;
+}
+
+.nikear-store-components-0-x-specificationValue {
+	white-space: pre-wrap;
+}
+
+.nikear-store-components-0-x-itemColumnContainer h1, .nikear-store-components-0-x-itemColumnContainer h2, .nikear-store-components-0-x-itemColumnContainer h3, .nikear-store-components-0-x-itemColumnContainer h4, .nikear-store-components-0-x-itemColumnContainer h5, .nikear-store-components-0-x-itemColumnContainer h6 {
+    margin: 0;
+}
+
+.vtex-flex-layout-0-x-flexRow--main-header-mobile {
+	z-index: 3;
+}
+
+.nikear-store-components-0-x-carouselItem{
+  min-width: 225px;
+}
+.nikear-search-result-4-x-filterTemplateOverflow--grid-filter{
+  text-transform: capitalize;
+}
+
+
+@media (max-width: 1024px) {
+  .vtex-store-link-0-x-label--orders {
+	padding: 0 !important;
+  }
+  .vtex-store-link-0-x-link--menu-drawer .vtex-store-link-0-x-label--orders:before{
+    display:none;
+  }
+  .render-container.render-route-store-product .vtex-store-footer-2-x-footerLayout {
+	margin-bottom: 55px;
+  }
+}
+
+.nikear-store-components-0-x-productImagesContainer--carousel .nikear-store-components-0-x-swiperCaret{
+  z-index: 99999999;
+}
+@media (max-width: 40rem) {
+    .vtex-store-components-3-x-searchBarIcon {
+        padding:0;
+    }
+    .vtex-store-components-3-x-searchBarIcon .vtex-store-components-3-x-searchIcon {
+        max-width: 24px !important;
+    }
+}
+
+.nikear-store-components-0-x-itemLinkDesktop--level-2 {
+    font-weight: 500;
+}
+
+.body-order-form .orderform-template .orderform-template-holder #payment-data .accordion-group .accordion-body .accordion-inner .box-step .box-step-content .form-step .payment-group .payment-group-list-btn .payment-group-item#payment-group-MercadoPagoProPaymentGroup .payment-group-item-text::before {
+  content: "Crédito/Débito/Dinero en cuenta" !important;
+}
+.nikear-store-components-0-x-itemLinkDesktop--level-0{
+	font-weight: 500;
+
+}
+.nikear-store-components-0-x-sameDayIcon img,
+.nikear-store-components-0-x-sameDayIcon svg {
+	width: 35px;
+    height: 35px;
+}
+@media (min-width: 64.063rem) {
+  .vtex-flex-layout-0-x-flexRow--center-footer .vtex-flex-layout-0-x-flexRowContent--center-footer {
+     margin: 0 auto;
+  }
+}
+
+span.topText-plain {
+	font-weight: 400;
+}
+
+.vtex-product-summary-2-x-clearLink--product-card .vtex-rich-text-0-x-paragraph--not-available-text {
+   display: none;
+}
+
+.vtex-product-summary-2-x-container--product-card .vtex-product-highlights-2-x-productHighlightWrapper--collection[data-highlight-id="219"] .vtex-product-highlights-2-x-productHighlightText {
+	font-size: 16px;
+}
+@media (min-width: 64.063rem) {
+  .vtex-sticky-layout-0-x-container--sticky-top-bar-mobile.fixed {
+      z-index: 0 !important;
+      display: none;
+  }
+}
+
+.vtex-store-drawer-0-x-drawer--search-bar{
+	z-index:999999999999999999999;
+}
+.vtex-flex-layout-0-x-flexCol--filterCol {
+    top: 122px !important;
+    
+}
+
+@media (min-width: 1024px) {
+    .vtex-flex-layout-0-x-flexRowContent--product-main .vtex-flex-layout-0-x-stretchChildrenWidth .vtex-flex-layout-0-x-flexCol--pdp-image-container .vtex-flex-layout-0-x-flexColChild {
+        top: 101px !important;
+    }
+}
+.nikear-custom-sku-selector-0-x-skuSelectorItem--unavailable{
+  display: flex !important;
+}
+
+@media (max-width: 1024px){
+.swiper-container-horizontal>.swiper-pagination-bullets {
+	z-index: -1;
+}
+  .nikear-store-components-0-x-productImagesContainer .nikear-store-components-0-x-swiperPaginationClickable {
+  	max-height: 3px;
+  }
+  .vtex-flex-layout-0-x-flexRow--pdp-layout .nikear-store-components-0-x-swiperPaginationClickable{
+  	top: -7px;
+  }
+}
+  
